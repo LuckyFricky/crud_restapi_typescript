@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(173, 216, 230); /* Light Blue */
+}
+nav ul {
+    list-style-type: none; /* Remove list markers */
+}
+
+
+
+nav a {
+    color: #333; /* Цвет текста */
+    font-size: 16px; /* Размер шрифта */
+    text-decoration: none; /* Убрать подчеркивание */
+    font-weight: bold; /* Насыщенность шрифта */
+}
